@@ -1,8 +1,8 @@
 {
     "name": "grapesjs-lib",
-    "version": "1.0.3",
+    "version": "1.0.0",
     "description": "Grapesjs Library",
-    "main": "dist/grapesjs-tailwind.min.js",
+    "main": "dist/grapesjs-lib.min.js",
     "repository": {
         "type": "git",
         "url": "https://github.com/sapmenc/grapejs-lib.git"
