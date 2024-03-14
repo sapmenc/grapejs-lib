@@ -1,0 +1,26 @@
+{
+    "name": "grapesjs-lib",
+    "version": "1.0.1",
+    "description": "Grapesjs Library",
+    "main": "dist/grapesjs-tailwind.min.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sapmenc/grapejs-lib.git"
+    },
+    "scripts": {
+        "start": "grapesjs-cli serve",
+        "build": "grapesjs-cli build",
+        "bump": "npm version patch -m 'Bump v%s'"
+    },
+    "keywords": [
+        "grapesjs",
+        "plugin"
+    ],
+    "devDependencies": {
+        "grapesjs-cli": "^2.0.0"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "css": "^3.0.0"
+    }
+}
